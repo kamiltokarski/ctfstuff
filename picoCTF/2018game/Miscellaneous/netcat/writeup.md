@@ -1,0 +1,1 @@
+Download and install netcat. Then connect to given server.
